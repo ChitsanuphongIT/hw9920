@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-	//	 VV--------- 1 2 3 4 5 6 7 8 9 ..... 40
-	char str[40];	//   H e l l o _ _ _ _ ..... _     
+	//	 VV--------- 1 2 3 4 5 6 7 8 9 ..... 20
+	char str[20];	//   H e l l o _ _ _ _ ..... _     
 	int lenStr;
 
 	cout << "Input String\t: ";
